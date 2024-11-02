@@ -1,4 +1,4 @@
-## About me 😄
+## About me
 Hello! I'm Luka, a dedicated student at Zagreb University of Applied Sciences (TVZ), with a strong passion for programming. I value writing clean, maintainable code and continuously strive to enhance my skills in various fields of technology. My primary interests lie in cybersecurity and iOS development.
 
 ## Feel free to reach out through the link below:
